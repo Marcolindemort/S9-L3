@@ -16,10 +16,10 @@ function App() {
 			<MyNav />
 			<Welcome />
 			<BookList genre={fantasy} category="Fantasy" />
-			<BookList genre={horror} category="Horror" />
+			{/*<BookList genre={horror} category="Horror" />
 			<BookList genre={history} category="History" />
 			<BookList genre={romance} category="Romance" />
-			<BookList genre={scifi} category="Sci-Fi" />
+	<BookList genre={scifi} category="Sci-Fi" />*/}
 			<MyFooter />
 		</div>
 	);
